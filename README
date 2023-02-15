@@ -1,1 +1,27 @@
+Kunskapskontroll 2 [Individuell inlämningsuppgift och labbar]Kunskapskontroll 2 handlar om Continuous Integration och automatisering mot en produkt/tjänst (somman väljer själv), denna kunskapskontroll behandlar läranderesultat 5 till 10.
+Ordinarie inlämningsdatum: inlämning senast 26/3 23:59, labbar vid lektionstillfällen eller 19/2.
+Kompletteringsdatum 1: inlämning senast 9/423:59
+Kompletteringsdatum 2: inlämning senast 23/423:59
 
+Individuell inlämning och demo: Demo: Bokad tid (16/3 eller 23/3)
+Ordinarie inlämningsdatum: inlämning senast 26/3 23:59
+Kompletteringsdatum 1: inlämning senast 9/4 23:59
+Kompletteringsdatum 2: inlämning senast 23/4 23:59
+
+För Betyg G ska inlämning innehålla: 
+
+Automatiserade tester: 
+● Eget val av produkt/tjänst att bygga upp automatisering mot. Skapa en dokumenterad testanalys av produkten/tjänsten (max 1 sida eller en mindmapp)
+○ Välja ett testverktyg för automatisering dokumentera hur valet av testverktyg gjordes (0,5-1 sida)
+○ Dokumentera hur automatiserade tester satts upp i testverktyget (t.ex hur du satte upp testerna enligt ett specifikt format eller om du använder setup/teardown på ett visst sätt) samt hur testdesignen ser ut för varje test (1-2 sidor)
+○ Länk till ditt publika github repo ska finnas länkat till läraren inför rättning.
+
+CI och Pipeline:
+● Dokumentation kring hur CI med hjälp av Jenkins sattes upp (max 1 sida)
+
+För Betyg VG ska inlämningen kompletteras med:
+● Skriftlig rapport, som går igenom hur man gått tillväga för att skapa en genomarbetad, enkel och hållbar lösning för ett testverktyg kopplat till Jenkins med CI. Denna rapport ska vara separat från G-inlämningen (1,5-2 sidor). Dessutom ska den studerande genomföra ett demo för läraren: den 16/3 eller 23/3 under utsatt 
+lektionstid
+● Den studerande ska visa uppsatt CI
+● Den studerande ska visa körning av testautomatisering (minst 5 automatiserade tester)
+● Den studerande ska visa hur versionshantering ser ut av inlämningen, dess koppling i CI samt hur den fungerar
